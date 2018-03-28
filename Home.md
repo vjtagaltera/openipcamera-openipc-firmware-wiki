@@ -1,1 +1,1 @@
-Welcome to the openipc-firmware wiki!
+Welcome to the OpenIPC Wiki.
