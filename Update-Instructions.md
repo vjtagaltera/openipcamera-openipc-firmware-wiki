@@ -1,4 +1,4 @@
-###Upgrade existing OpenIPC install (script) ###
+### Upgrade existing OpenIPC install (script) ###
 
 3. Download or clone the repo and cd into it
 2. Run ./update.sh openipciphere
