@@ -1,7 +1,7 @@
 List of all the known VMS that work with OpenIPC:
 
 * Avigilon 6
-* Network Optix
+* NxWitness
 * DW Spectrum
 * Hanwha Wave
 * BlueIris
